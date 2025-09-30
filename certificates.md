@@ -10,37 +10,74 @@ For a quick summary, check my [homepage](index.md).
 
 ### 🔹 T-SQL
 - **Modify data with T-SQL**  
-  Completed: 9/4/2025  
+  Completed: SEP 04, 2025
   [View Badge](https://learn.microsoft.com/api/achievements/share/en-us/Crystal-3070/VJAXSJKM?sharingId=2F302E09746A9BD0)
 
 - **Use built-in functions and GROUP BY in Transact-SQL**  
-  Completed: 9/4/2025  
+  Completed: SEP 04, 2025  
   [View Badge](https://learn.microsoft.com/api/achievements/share/en-us/Crystal-3070/8Z9GVZFW?sharingId=2F302E09746A9BD0)
 
 - **Write Subqueries in T-SQL**  
-  Completed: 9/4/2025  
+  Completed: SEP 04, 2025 
   [View Badge](https://learn.microsoft.com/api/achievements/share/en-us/Crystal-3070/ZBYNJBV2?sharingId=2F302E09746A9BD0)
 
 - **Combine multiple tables with JOINs in T-SQL**  
-  Completed: 9/4/2025  
+  Completed: SEP 04, 2025  
   [View Badge](https://learn.microsoft.com/api/achievements/share/en-us/Crystal-3070/9YLTAXGU?sharingId=2F302E09746A9BD0)
 
 - **Sort and filter results in T-SQL**  
-  Completed: 9/4/2025  
+  Completed: SEP 04, 2025  
   [View Badge](https://learn.microsoft.com/api/achievements/share/en-us/Crystal-3070/8Z9GV79W?sharingId=2F302E09746A9BD0)
 
 - **Introduction to Transact-SQL**  
-  Completed: 9/4/2025  
+  Completed: SEP 04, 2025
   [View Badge](https://learn.microsoft.com/api/achievements/share/en-us/Crystal-3070/URGS7YS3?sharingId=2F302E09746A9BD0)
 
 ---
 
 ### 🔹 Git
 - **Introduction to Git** ✅ *Module assessment passed*  
-  Completed: 5/26/2025  
+  Completed: MAY 26, 2025
   [View Badge](https://learn.microsoft.com/api/achievements/share/en-us/Crystal-3070/BCH6LA8D?sharingId=2F302E09746A9BD0)
 
 ---
+
+## DataCamp
+
+### 🔹 Python
+
+- **Introduction to Python**  
+  Completed: JUN 13, 2025
+  [View Badge](https://www.datacamp.com/completed/statement-of-accomplishment/course/ddfac39325a8b06eeb762360fcf0d2929e4f1ebf)
+
+### 🔹 Power BI
+
+- **Introduction to Power BI**  
+  Completed: JAN 30, 2025
+  [View Badge](https://www.datacamp.com/completed/statement-of-accomplishment/course/f49ca8d394d76c101892693c6762ea668b9403ee)
+  
+- **Introduction to DAX in Power BI**  
+  Completed: FEB 10, 2025
+  [View Badge](https://www.datacamp.com/completed/statement-of-accomplishment/course/b75fcdd9d36dc840f66728ea326fb88e4928ffbb)
+
+### 🔹 SQL
+
+- **Introduction to SQL**  
+  Completed: MAY 28, 2025
+  [View Badge](https://www.datacamp.com/completed/statement-of-accomplishment/course/c3ee00a62366c552b49a121c4cc684a0230e0abd)
+
+### 🔹 GitHub
+
+- **Introduction to GitHub Concepts**  
+  Completed: JUN 13, 2025
+  [View Badge](https://www.datacamp.com/completed/statement-of-accomplishment/course/f2f712d27f5141c6192a4e490bebfbfaa18102ed)
+  
+### 🔹 Others
+
+- **Understanding Data Engineering**  
+  Completed: MAY 27, 2025
+  [View Badge](https://www.datacamp.com/completed/statement-of-accomplishment/course/1751df2f7f62a74725c1056188a9197213e08f2f)
+
 
 ## Other Platforms
  
