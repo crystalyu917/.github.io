@@ -48,35 +48,41 @@ For a quick summary, check my [homepage](index.md).
 
 - **Introduction to Python**  
   Completed: JUN 13, 2025
-  [View Badge](https://www.datacamp.com/completed/statement-of-accomplishment/course/ddfac39325a8b06eeb762360fcf0d2929e4f1ebf)
+  [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/ddfac39325a8b06eeb762360fcf0d2929e4f1ebf)
 
 ### 🔹 Power BI
 
 - **Introduction to Power BI**  
   Completed: JAN 30, 2025
-  [View Badge](https://www.datacamp.com/completed/statement-of-accomplishment/course/f49ca8d394d76c101892693c6762ea668b9403ee)
+  [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/f49ca8d394d76c101892693c6762ea668b9403ee)
   
 - **Introduction to DAX in Power BI**  
   Completed: FEB 10, 2025
-  [View Badge](https://www.datacamp.com/completed/statement-of-accomplishment/course/b75fcdd9d36dc840f66728ea326fb88e4928ffbb)
+  [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/b75fcdd9d36dc840f66728ea326fb88e4928ffbb)
 
 ### 🔹 SQL
 
 - **Introduction to SQL**  
   Completed: MAY 28, 2025
-  [View Badge](https://www.datacamp.com/completed/statement-of-accomplishment/course/c3ee00a62366c552b49a121c4cc684a0230e0abd)
+  [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/c3ee00a62366c552b49a121c4cc684a0230e0abd)
+
+
+### 🔹 AI Agent
+- **Introduction to AI Agents**  
+  Completed: OCT 01, 2025
+  [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/cb73ce7eb8e47644bad3416bb2f383e9efb5c19b)
 
 ### 🔹 GitHub
 
 - **Introduction to GitHub Concepts**  
   Completed: JUN 13, 2025
-  [View Badge](https://www.datacamp.com/completed/statement-of-accomplishment/course/f2f712d27f5141c6192a4e490bebfbfaa18102ed)
+  [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/f2f712d27f5141c6192a4e490bebfbfaa18102ed)
   
 ### 🔹 Others
 
 - **Understanding Data Engineering**  
   Completed: MAY 27, 2025
-  [View Badge](https://www.datacamp.com/completed/statement-of-accomplishment/course/1751df2f7f62a74725c1056188a9197213e08f2f)
+  [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/1751df2f7f62a74725c1056188a9197213e08f2f)
 
 
 ## Other Platforms
