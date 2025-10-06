@@ -8,6 +8,11 @@ For a quick summary, check my [homepage](index.md).
 
 ## Microsoft Learn
 
+### 🔹 AI Agents
+- **Build and manage an agent**  
+  Completed: Oct 06, 2025
+  [View Badge](https://learn.microsoft.com/api/achievements/share/en-gb/Crystal-3070/B9TLW35D?sharingId=2F302E09746A9BD0)
+
 ### 🔹 T-SQL
 - **Modify data with T-SQL**  
   Completed: SEP 04, 2025
