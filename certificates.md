@@ -9,6 +9,11 @@ For a quick summary, check my [homepage](index.md).
 ## Microsoft Learn
 
 ### 🔹 AI Agents
+
+- **Get started with agents**  
+  Completed: Oct 06, 2025
+  [View Badge](https://learn.microsoft.com/api/achievements/share/en-us/Crystal-3070/KCJLU3FB?sharingId=2F302E09746A9BD0)
+
 - **Build and manage an agent**  
   Completed: Oct 06, 2025
   [View Badge](https://learn.microsoft.com/api/achievements/share/en-gb/Crystal-3070/B9TLW35D?sharingId=2F302E09746A9BD0)
