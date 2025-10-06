@@ -18,6 +18,10 @@ For a quick summary, check my [homepage](index.md).
   Completed: Oct 06, 2025
   [View Badge](https://learn.microsoft.com/api/achievements/share/en-gb/Crystal-3070/B9TLW35D?sharingId=2F302E09746A9BD0)
 
+- **Explore prebuilt Microsoft 365 Copilot agents**  
+  Completed: Oct 06, 2025
+  [View Badge](https://learn.microsoft.com/api/achievements/share/en-us/Crystal-3070/UA8YP4H3?sharingId=2F302E09746A9BD0)
+
 - **Copilot Studio**  
   Completed: Oct 06, 2025
   [View Badge](https://learn.microsoft.com/api/achievements/share/en-us/Crystal-3070/DUS64V8J?sharingId=2F302E09746A9BD0)
