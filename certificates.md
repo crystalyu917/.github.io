@@ -87,13 +87,12 @@ For a quick summary, check my [homepage](index.md).
 
 
 ### 🔹 AI Agent
-- **Introduction to AI Agents**  
-  Completed: OCT 01, 2025
-  [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/cb73ce7eb8e47644bad3416bb2f383e9efb5c19b)
-
-- **Building Scalable Agentic Systems**  
+- **AI Agent Fundamentals Track**  
   Completed: OCT 08, 2025
-  [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/877392004e1b22ae505c380a13dbe6fa412dd2f2?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink)
+  [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/9fcc54612d7c958b5de623eeb6bd4e5efa801253)
+
+  **Courses: Generative AI for Business, Introduction to AI Agents, Building Scalable Agentic Systems**
+
   
 
 ### 🔹 GitHub
