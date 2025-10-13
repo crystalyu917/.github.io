@@ -91,6 +91,10 @@ For a quick summary, check my [homepage](index.md).
   Completed: MAY 28, 2025
   [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/c3ee00a62366c552b49a121c4cc684a0230e0abd)
 
+- **Intermediate SQL**  
+  Completed: Oct 13, 2025
+  [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/b98e3b03914049dadecff81ecd65246bbf5abe34)
+
 
 ### 🔹 AI Agent
 - **AI Agent Fundamentals Track**  
