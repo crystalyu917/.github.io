@@ -79,6 +79,12 @@ For a quick summary, check my [homepage](index.md).
   Completed: FEB 10, 2025
   [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/b75fcdd9d36dc840f66728ea326fb88e4928ffbb)
 
+- **Data Visualization in Power BI**  
+  Completed: Oct 13, 2025
+  [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/16fec06536855d3a12f452005eed2ac2add26dfc)
+
+
+
 ### 🔹 SQL
 
 - **Introduction to SQL**  
